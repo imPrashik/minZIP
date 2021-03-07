@@ -1,6 +1,6 @@
 # minZIP
 
-`Demo`: http://demo.agile-labs.com/minzip/
+`Demo`: http://demo.agile-labs.com/minZIP/
 
  minZIP is an effective tool built in PHP and Node and currently tested on IIS Express server which compresses JS/CSS files using Babel + Uglify-es for JavaScript and CleanCss for CSS to provide browser compatibility for all Browsers.
  
